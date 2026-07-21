@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="file_0000000036e08206a86f46796af48a99.png" width="100%">
+</p>
 # Hi 👋 I'm Ganesh Babu
 
 🎓 B.Tech Information Technology Student
