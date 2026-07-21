@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Ganesh Babu
+
+🎓 B.Tech Information Technology Student
+
+💻 Full Stack Developer
+
+🐍 Python | Django | React | JavaScript
+
+📊 Data Science & Machine Learning Enthusiast
+
+🌱 Currently learning Advanced Django and AI
+
+📫 Email: aarumugam42104@gmail.com
 
 <!--
 **Ganeshbabu03/Ganeshbabu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
